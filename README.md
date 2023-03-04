@@ -3,22 +3,24 @@
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)
 ![Discord](https://img.shields.io/discord/892807792996536453)
 
-AstroDX (Formerly named MaipadDX), is a mobile maimai simulator that builds on top of the traditional arcade experience and brings optimizations for mobile devices.
+AstroDX (Formerly named MaipadDX), is a mobile maimai simulator intended for those who don't yet have access to a cabinet, those who want to practice, and everyone interested in maimai.
 
-# Project open-source status
+# Open-source status
 
-Since AstroDX isn't published to any app stores, we wanted to make sure it's hard to be recompiled and sold unofficially (this game is free after all).
+We initially intended for AstroDX to be fully open-source after it's uploaded to official app stores, but as the game contains paid assets, we might be only able to partially open-source AstroDX.
+
 However, If you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
 
 # Q&A
 
 Q. Which version should I download?
 
-> As of now, v1.1.1 is the latest stable version. You should use this if you prefer having less bugs.  
-> If you want more optimizations, a better navigation experience and reworked features (though unstable), you might want to give v2.0 a shot!
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)  
+v2.0 is the latest version cycle, with full support for festival features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
+v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.  
 
-**v2.0** is currently undergoing many changes, including a massive UI overhaul, runtime optimizations, vfx / audio system reworks, just to name a few.
-However, new features are unstable and will eventually be updated as time progresses. If you live on cutting-edge technology, this is the version for you.
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
+If you prefer a stable build instead, v1.1.1 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Are there any tutorials on importing?
 
@@ -27,5 +29,12 @@ Yep, they should be on the [wiki](https://github.com/2394425147/maipaddx/wiki/Im
 ## Can I use charts transcribed from the official arcade game maimai?
 
 We **don't recommend** doing this, as it violates SEGA's policies.
+
+## I'm having some issues...
+
+You can open an issue [here](https://github.com/2394425147/maipaddx/issues).
+
+![Discord](https://img.shields.io/discord/892807792996536453)  
+Alternatively, on our Discord server, we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.  
 
 Happy playing!
