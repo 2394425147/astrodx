@@ -13,7 +13,7 @@ However, If you have issues, please don't hesitate to point it out in issues and
 
 # Q&A
 
-Q. Which version should I download?
+## Which version should I download?
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)  
 v2.0 is the latest version cycle, with full support for festival features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
