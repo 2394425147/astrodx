@@ -17,7 +17,7 @@ However, If you have issues, please don't hesitate to point it out in issues and
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)  
 v2.0 is the latest version cycle, with full support for festival features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
-v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.  
+v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
 If you prefer a stable build instead, v1.1.1 is the **latest stable version**. You should use this if you prefer a long-term support experience.
@@ -33,7 +33,7 @@ Each public link only can hold 10k players (count by Apple ID), so please NOT du
 
 ## Are there any tutorials on importing?
 
-Yep, they should be on the [wiki](https://github.com/2394425147/maipaddx/wiki/Importing-levels) of this repo. 
+Yep, they should be on the [wiki](https://github.com/2394425147/maipaddx/wiki/Importing-levels) of this repo.
 
 ## Can I use charts transcribed from the official arcade game maimai?
 
@@ -43,7 +43,7 @@ We **don't recommend** doing this, as it violates SEGA's policies.
 
 You can open an issue [here](https://github.com/2394425147/maipaddx/issues).
 
-![Discord](https://img.shields.io/discord/892807792996536453)  
-Alternatively, on our Discord server, we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.  
+[![Discord](https://img.shields.io/discord/892807792996536453)](https://discord.gg/6fpETgpvjZ)  
+Alternatively, on our Discord server, we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.
 
 Happy playing!
