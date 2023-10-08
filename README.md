@@ -1,7 +1,7 @@
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)
-![Discord](https://img.shields.io/discord/892807792996536453)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
+[![Discord](https://img.shields.io/discord/892807792996536453)](https://discord.gg/6fpETgpvjZ)
 
 AstroDX (Formerly named MaipadDX), is a mobile maimai simulator intended for those who don't yet have access to a cabinet, those who want to practice, and everyone interested in maimai.
 
