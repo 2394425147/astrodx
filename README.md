@@ -1,7 +1,7 @@
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)
-![Discord](https://img.shields.io/discord/892807792996536453)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
+[![Discord](https://img.shields.io/discord/892807792996536453)](https://discord.gg/6fpETgpvjZ)
 
 AstroDX (Formerly named MaipadDX), is a mobile maimai simulator intended for those who don't yet have access to a cabinet, those who want to practice, and everyone interested in maimai.
 
@@ -15,7 +15,7 @@ However, If you have issues, please don't hesitate to point it out in issues and
 
 ## Which version should I download?
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)  
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)  
 v2.0 is the latest version cycle, with full support for festival features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
 v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
 
