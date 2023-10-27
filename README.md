@@ -11,6 +11,11 @@ We initially intended for AstroDX to be fully open-source after it's uploaded to
 
 However, If you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
 
+This game is a clean-room implementation of maimai, and has been developed without using any original arcade data.
+
+- For simai interpreter and serializer used in AstroDX: [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)
+- For game open-source parts: [AstroDX core-dump](https://github.com/2394425147/maipaddx/tree/main/core-dump)
+
 # Q&A
 
 ## Which version should I download?
@@ -31,6 +36,8 @@ Due to restriction of Apple, developer must be 18 (or 19 depends on local law) t
 
 Each public link only can hold 10k players (count by Apple ID), so please NOT duplicate join the test if you already have AstroDX installed.
 
+Since both of those slots are full again, we are planning on create another one soon, but ETA is not guaranteed on this.
+
 ## Are there any tutorials on importing?
 
 Yep, they should be on the [wiki](https://github.com/2394425147/maipaddx/wiki/Importing-levels) of this repo.
@@ -42,6 +49,10 @@ We **don't recommend** doing this, as it violates SEGA's policies.
 ## I'm having some issues...
 
 You can open an issue [here](https://github.com/2394425147/maipaddx/issues).
+
+We welcome issues written in Mandarin, Japanese and English. However, it would be strongly suggested to provide translations (even using online translator) to English when submitting them, thus other people could understand as well.
+
+When submitting issues, please always ensure that you are running the latest released version. We also recommend reviewing existing issues to avoid duplication of questions or concerns.
 
 [![Discord](https://img.shields.io/discord/892807792996536453)](https://discord.gg/6fpETgpvjZ)  
 Alternatively, on our Discord server, we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.
