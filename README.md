@@ -1,7 +1,7 @@
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
-[![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ)](https://discord.gg/6fpETgpvjZ)
+[![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
 
 AstroDX (Formerly named MaipadDX), is a mobile maimai simulator intended for those who don't yet have access to a cabinet, those who want to practice, and everyone interested in maimai.
 
@@ -54,7 +54,7 @@ We welcome issues written in Mandarin, Japanese and English. However, it would b
 
 When submitting issues, please always ensure that you are running the latest released version. We also recommend reviewing existing issues to avoid duplication of questions or concerns.
 
-[![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ)](https://discord.gg/6fpETgpvjZ)
+[![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
 Alternatively, on our Discord server, we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.
 
 Happy playing!
