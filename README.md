@@ -54,7 +54,26 @@ We welcome issues written in Mandarin, Japanese and English. However, it would b
 
 When submitting issues, please always ensure that you are running the latest released version. We also recommend reviewing existing issues to avoid duplication of questions or concerns.
 
-[![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
-Alternatively, on our Discord server, we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.
+Alternatively, on our [Discord server](https://discord.gg/6fpETgpvjZ), we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.
+
+## 質問がある場合
+
+イシューは[こちら](https://github.com/2394425147/maipaddx/issues)から提出できます。
+
+中国語、日本語、英語でのイシュー投稿を大歓迎します。ただし、他の方も理解できるように、イシューを提出する際には（オンライン翻訳を使用しても）英文への翻訳をお願いいたします。
+
+イシューを提出する際には、最新バージョンを使用していることチェックしてください。また、重複を避けるため、既存のイシューを確認することをおすすめします。
+
+また、AstroDXの[Discordサーバー](https://discord.gg/6fpETgpvjZ)には、質問用、FAQ、フィードバックのための提案チャンネルもご用意しています。
+
+## 當遇到了問題的時候
+
+可以在[這裏](https://github.com/2394425147/maipaddx/issues)提出issue。
+
+我們歡迎使用中文、日文和英文編寫的issue。然而，在提交問題時，強烈建議提供英文翻譯（甚至使用線上翻譯），以便其他人也能理解。
+
+提交issue時，請務必確保您正在執行的是最新發布的版本。 我們也建議審查現有issue，以避免重複或疑慮。
+
+此外，在我們的[Discord伺服器](https://discord.gg/6fpETgpvjZ)上，還有一個專門解決問題的幫助論壇、常見問題解答以及回饋及建議頻道。
 
 Happy playing!
