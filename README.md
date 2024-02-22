@@ -28,15 +28,13 @@ v2.0 also includes optimizations, better interfaces, and more customizations. Ho
 If you prefer a stable build instead, v1.1.1 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Wait, is there version for iOS?
-Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn).
+Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
 
 Due to restriction of Apple, developer must be 18 (or 19 depends on local law) to publish Applications on App Store. Currently, we borrow JiNALE TEAM's developer account for bringing TestFlight up.
 
 Each public link only can hold 10k players (count by Apple ID), so please NOT duplicate join the test if you already have AstroDX installed.
-
-Since both of those slots are full again, we are planning on create another one soon, but ETA is not guaranteed on this.
 
 ## Are there any tutorials on importing?
 
