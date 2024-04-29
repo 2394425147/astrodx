@@ -1,3 +1,5 @@
+# *FROM MAY 2024, ISSUES WITHOUT ENGLISH TRANSLATION WILL BE CLOSED WITH NO EXPLANATION*
+
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
