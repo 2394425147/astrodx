@@ -5,13 +5,13 @@
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
 [![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
 
-AstroDX (Formerly named MaipadDX), is a mobile maimai simulator intended for those who don't yet have access to a cabinet, those who want to practice, and everyone interested in maimai.
+AstroDX (Formerly named MaipadDX), is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai.
 
 # Open-source status
 
-We initially intended for AstroDX to be fully open-source after it's uploaded to official app stores, but as the game contains paid assets, we might be only able to partially open-source AstroDX.
+We initially intended for AstroDX to be fully open-source after it's uploaded to official app stores, but as the game contains paid assets, we might only be able to partially open-source AstroDX.
 
-However, If you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
+However, if you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
 
 This game is a clean-room implementation of maimai, and has been developed without using any original arcade data.
 
@@ -27,20 +27,22 @@ v2.0 is the latest version cycle, with full support for festival features, and a
 v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
-If you prefer a stable build instead, v1.1.1 is the **latest stable version**. You should use this if you prefer a long-term support experience.
+If you prefer a stable build instead, v2.0.0.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Wait, is there version for iOS?
 Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
 
-Due to restriction of Apple, developer must be 18 (or 19 depends on local law) to publish Applications on App Store. Currently, we borrow JiNALE TEAM's developer account for bringing TestFlight up.
+Due to restriction of Apple, developer must be 18 (or 19 depends on local law) to publish Applications on App Store. Currently, we are borrowing JiNALE TEAM's developer account to maintain TestFlight.
 
-Each public link only can hold 10k players (count by Apple ID), so please NOT duplicate join the test if you already have AstroDX installed.
+Each public link only can hold 10k players (counted by Apple ID), so please DO NOT rejoin the test if you already have AstroDX installed.
 
 ## Are there any tutorials on importing?
 
-Yep, they should be on the [wiki](https://github.com/2394425147/maipaddx/wiki/Importing-levels) of this repo.
+Detailed guides for Android and iOS are available here:
+- [Installation Guide for Android](https://sht.moe/adx-android)
+- [Installation Guide for iOS/iPadOS](https://rentry.org/adx_ios)
 
 ## Can I use charts transcribed from the official arcade game maimai?
 
@@ -50,6 +52,7 @@ We **don't recommend** doing this, as it violates SEGA's policies.
 
 You can open an issue [here](https://github.com/2394425147/maipaddx/issues).
 
+**As of May 2024, an attached English translation of the issue is mandatory.**
 We welcome issues written in Chinese, Japanese and English. However, it would be strongly suggested to provide translations (even using online translator) to English when submitting them, thus other people could understand as well.
 
 When submitting issues, please always ensure that you are running the latest released version. We also recommend reviewing existing issues to avoid duplication of questions or concerns.
