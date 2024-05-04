@@ -5,11 +5,11 @@
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
 [![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
 
-AstroDX (Formerly named MaipadDX), is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai.
+AstroDX (Formerly MaipadDX) is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai who otherwise could not play the arcade game.
 
 # Open-source status
 
-We initially intended for AstroDX to be fully open-source after it's uploaded to official app stores, but as the game contains paid assets, we might only be able to partially open-source AstroDX.
+We initially intended for AstroDX to be fully open-source after it has been uploaded to official app stores, but as the game contains paid assets, we may only be able to partially open-source AstroDX.
 
 However, if you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
 
@@ -27,14 +27,14 @@ v2.0 is the latest version cycle, with full support for festival features, and a
 v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
-If you prefer a stable build instead, v2.0.0.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
+If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Wait, is there version for iOS?
 Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
 
-Due to restriction of Apple, developer must be 18 (or 19 depends on local law) to publish Applications on App Store. Currently, we are borrowing JiNALE TEAM's developer account to maintain TestFlight.
+Due to Apple's restrictions, the developer must be 18 (or 19 depending on local law) to publish Applications on App Store. Currently, we are borrowing JiNALE TEAM's developer account to maintain TestFlight.
 
 Each public link only can hold 10k players (counted by Apple ID), so please DO NOT rejoin the test if you already have AstroDX installed.
 
