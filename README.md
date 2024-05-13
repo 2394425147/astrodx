@@ -31,8 +31,11 @@ If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stabl
 
 ## Wait, is there version for iOS?
 Well... It's a bit finnicky. There's a bit of an ordeal going on regarding our access to TestFlight (which you can read more on our Discord server [here](https://discord.com/channels/892807792996536453/1210127565986205726/1238882652040200373)).
+
 **TL;DR: AstroDX on iOS is currently unmaintainable. However, we hope to resolve this issue soon.**
+
 In the meantime, you will still be able to join the tests as per usual.
+
 You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
