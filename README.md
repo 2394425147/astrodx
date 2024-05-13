@@ -23,8 +23,8 @@ This game is a clean-room implementation of maimai, and has been developed witho
 ## Which version should I download?
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)  
-v2.0 is the latest version cycle, with full support for festival features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
-v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
+v2.0 is the latest version cycle, with full support for FESTiVAL features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
+v2.0 also includes performance optimizations, a better interface, and more customization. However, it's still in its pre-beta cycle, which means features are yet to be finalised, and very much prone to changes.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
 If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
@@ -37,7 +37,8 @@ You can join the test at [TestFlight Group A](https://testflight.apple.com/join/
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
 
-Due to Apple's restrictions, the developer must be 18 (or 19 depending on local law) to publish Applications on App Store. Currently, we are borrowing JiNALE TEAM's developer account to maintain TestFlight.
+As such, with the current status of things, we **highly urge you** to leave the test if you anticipate to not be playing the game any time soon. This ensures open slots for others who may want to test the game and give us feedback.
+We won't blame you for forgetting, but please keep it in mind.
 
 Each public link only can hold 10k players (counted by Apple ID), so please DO NOT rejoin the test if you already have AstroDX installed.
 
