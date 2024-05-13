@@ -1,4 +1,4 @@
-### *FROM MAY 2024, ISSUES WITHOUT ENGLISH TRANSLATION WILL BE CLOSED WITH NO EXPLANATION*
+### *FROM MAY 2024, ISSUES WITHOUT ENGLISH TRANSLATION WILL BE CLOSED WITHOUT EXPLANATION*
 
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
@@ -23,18 +23,22 @@ This game is a clean-room implementation of maimai, and has been developed witho
 ## Which version should I download?
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)  
-v2.0 is the latest version cycle, with full support for festival features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
-v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
+v2.0 is the latest version cycle, with full support for FESTiVAL features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
+v2.0 also includes performance optimizations, a better interface, and more customization. However, it's still in its pre-beta cycle, which means features are yet to be finalised, and very much prone to changes.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
 If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Wait, is there version for iOS?
-Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
+Well... It's a bit finnicky. There's a bit of an ordeal going on regarding our access to TestFlight (which you can read more on our Discord server [here](https://discord.com/channels/892807792996536453/1210127565986205726/1238882652040200373)).
+**TL;DR: AstroDX on iOS is currently unmaintainable. However, we hope to resolve this issue soon.**
+In the meantime, you will still be able to join the tests as per usual.
+You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
 
-Due to Apple's restrictions, the developer must be 18 (or 19 depending on local law) to publish Applications on App Store. Currently, we are borrowing JiNALE TEAM's developer account to maintain TestFlight.
+As such, with the current status of things, we **highly urge you** to leave the test if you anticipate to not be playing the game any time soon. This ensures open slots for others who may want to test the game and give us feedback.
+We won't blame you for forgetting, but please keep it in mind.
 
 Each public link only can hold 10k players (counted by Apple ID), so please DO NOT rejoin the test if you already have AstroDX installed.
 
