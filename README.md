@@ -29,18 +29,18 @@ v2.0 also includes performance optimizations, a better interface, and more custo
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
 If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
-## Wait, is there version for iOS?
-Well... It's a bit finnicky. There's a bit of an ordeal going on regarding our access to TestFlight (which you can read more on our Discord server [here](https://discord.com/channels/892807792996536453/1210127565986205726/1238882652040200373)).
-**TL;DR: AstroDX on iOS is currently unmaintainable. However, we hope to resolve this issue soon.**
+## Wait, is there a version for iOS?
+Well... It's a bit finnicky. There's a major change happening regarding TestFlight (which you can read more on our Discord server [here](https://discord.com/channels/892807792996536453/1210127565986205726/1238882652040200373)).
+
+**TL;DR: AstroDX for iOS is migrating to a new developer account, and during this period we won't free up more tester slots. However, we hope to finish this transition soon.**
+
 In the meantime, you will still be able to join the tests as per usual.
+
 You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
 
-As such, with the current status of things, we **highly urge you** to leave the test if you anticipate to not be playing the game any time soon. This ensures open slots for others who may want to test the game and give us feedback.
-We won't blame you for forgetting, but please keep it in mind.
-
-Each public link only can hold 10k players (counted by Apple ID), so please DO NOT rejoin the test if you already have AstroDX installed.
+*Each public link only can hold 10k players (they counted by Apple ID, not devices), so please DO NOT rejoin the test if you already have AstroDX installed.*
 
 ## Are there any tutorials on importing?
 
@@ -57,6 +57,7 @@ We **don't recommend** doing this, as it violates SEGA's policies.
 You can open an issue [here](https://github.com/2394425147/maipaddx/issues).
 
 **As of May 2024, an attached English translation of the issue is mandatory.**
+
 We welcome issues written in Chinese, Japanese and English. However, it would be strongly suggested to provide translations (even using online translator) to English when submitting them, thus other people could understand as well.
 
 When submitting issues, please always ensure that you are running the latest released version. We also recommend reviewing existing issues to avoid duplication of questions or concerns.
