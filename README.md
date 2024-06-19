@@ -29,6 +29,14 @@ v2.0 also includes performance optimizations, a better interface, and more custo
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
 If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
+## Desktop version, and controller support
+
+Currently, AstroDX hasn't release desktop (Windows/Linux/macOS) version, we also not release any official controller support yet.
+
+Products like "ADX controller", "BDX", etc, some the name might sounds similar with AstroDX, are not associated with us.
+
+We are developing our controller API for desktop version, and our API will public with desktop version as well, you may contact the controller's origial manufacturers to asking them support AstroDX afterward to enjoy our game.
+
 ## Wait, is there a version for iOS?
 Well... It's a bit finnicky. There's a major change happening regarding TestFlight (which you can read more on our Discord server [here](https://discord.com/channels/892807792996536453/1210127565986205726/1238882652040200373)).
 
