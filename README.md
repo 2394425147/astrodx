@@ -1,11 +1,11 @@
-### *FROM MAY 2024, ISSUES WITHOUT ENGLISH TRANSLATION WILL BE CLOSED WITHOUT EXPLANATION*
-
 # AstroDX
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
-[![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
+| Latest (Development)                                                                                                                                                                              | Latest (Stable)                                                                                                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Latest (Including pre-release)](https://img.shields.io/github/v/release/2394425147/astrodx?include_prereleases&sort=date)](https://github.com/2394425147/maipaddx/releases/latest) | [![Latest (Pre-beta stable)](https://img.shields.io/github/v/release/2394425147/astrodx?include_prereleases&sort=date&filter=*beta.pre*)](https://github.com/2394425147/maipaddx/releases/latest) |
 
 AstroDX (Formerly MaipadDX) is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai who otherwise could not play the arcade game.
+
+Join our Discord! [![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)  
 
 # Open-source status
 
@@ -19,15 +19,6 @@ This game is a clean-room implementation of maimai, and has been developed witho
 - For game open-source parts: [AstroDX core-dump](https://github.com/2394425147/maipaddx/tree/main/core-dump)
 
 # Q&A
-
-## Which version should I download?
-
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)  
-v2.0 is the latest version cycle, with full support for FESTiVAL features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
-v2.0 also includes performance optimizations, a better interface, and more customization. However, it's still in its pre-beta cycle, which means features are yet to be finalised, and very much prone to changes.
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
-If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Desktop version, and controller support
 
