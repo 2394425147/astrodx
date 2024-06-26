@@ -22,11 +22,11 @@ This game is a clean-room implementation of maimai, and has been developed witho
 
 ## Desktop version, and controller support
 
-Currently, AstroDX hasn't release desktop (Windows/Linux/macOS) version, we also not release any official controller support yet.
+Currently, AstroDX hasn't released a desktop version(Windows/Linux/macOS), we also have not released any official controller support yet.
 
-Products like "ADX controller", "BDX", etc, some the name might sounds similar with AstroDX, are not associated with us.
+Products such as "ADX controller", "BDX", etc., some of whose names may sound similar to AstroDX, are not associated with us.
 
-We are developing our controller API for desktop version, and our API will public with desktop version as well, you may contact the controller's origial manufacturers to asking them support AstroDX afterward to enjoy our game.
+We are currently developing our controller API for the desktop version, and our API will be made public along with the desktop version. You may contact the original manufacturers of the controllers to request their support for AstroDX so that you can enjoy our game.
 
 ## Wait, is there a version for iOS?
 Well... It's a bit finnicky. There's a major change happening regarding TestFlight (which you can read more on our Discord server [here](https://discord.com/channels/892807792996536453/1210127565986205726/1238882652040200373)).
