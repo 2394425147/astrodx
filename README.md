@@ -20,6 +20,10 @@ This game is a clean-room implementation of maimai, and has been developed witho
 
 # Q&A
 
+## Seems like my collections aren't getting installed properly in Beta
+
+We went through a redesign for the level storage structure. You can read more here: https://github.com/2394425147/astrodx/issues/115
+
 ## Desktop version, and controller support
 
 Currently, AstroDX hasn't released a desktop version(Windows/Linux/macOS), we also have not released any official controller support yet.
