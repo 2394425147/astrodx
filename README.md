@@ -1,6 +1,7 @@
 # AstroDX
-| Latest (Development)                                                                                                                                                                              | Latest (Stable)                                                                                                                                                                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Latest (Development) | Latest (Stable) |
+|----------------------|-----------------|
 | [![Latest (Including pre-release)](https://img.shields.io/github/v/release/2394425147/astrodx?include_prereleases&sort=date)](https://github.com/2394425147/maipaddx/releases/latest) | [![Latest (Pre-beta stable)](https://img.shields.io/github/v/release/2394425147/astrodx?include_prereleases&sort=date&filter=*beta.pre*)](https://github.com/2394425147/maipaddx/releases/latest) |
 
 AstroDX (Formerly MaipadDX) is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai who otherwise could not play the arcade game.
@@ -14,7 +15,7 @@ We initially intended for AstroDX to be fully open-source after it has been uplo
 However, if you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
 
 This game is a clean-room implementation of maimai, and has been developed without using any original arcade data.
-
+> If you owns the origional copyright of this game (SEGA), or you did other maimai simulator before our first release and concerning about clean-room implementation claim, we may offer you our game project for validating purpose, please contact us.
 - For simai interpreter and serializer used in AstroDX: [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)
 - For game open-source parts: [AstroDX core-dump](https://github.com/2394425147/maipaddx/tree/main/core-dump)
 
