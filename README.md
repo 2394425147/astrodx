@@ -6,6 +6,10 @@
 
 AstroDX (Formerly MaipadDX) is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai who otherwise could not play the arcade game.
 
+### This game is not officially associated with maimai, maimai DX, or other SEGA products.
+Please keep this in mind when producing content or sharing materials with AstroDX. It is against SEGA's policy to distribute illegal materials.
+
+
 Join our Discord! [![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)  
 
 # Open-source status
@@ -14,10 +18,10 @@ We initially intended for AstroDX to be fully open-source after it has been uplo
 
 However, if you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
 
-This game is a clean-room implementation of maimai, and has been developed without using any original arcade data.
-> If you owns the origional copyright of this game (SEGA), or you did other maimai simulator before our first release and concerning about clean-room implementation claim, we may offer you our game project for validating purpose, please contact us.
-- For simai interpreter and serializer used in AstroDX: [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)
-- For game open-source parts: [AstroDX core-dump](https://github.com/2394425147/maipaddx/tree/main/core-dump)
+This game is a clean-room implementation of a mobile maimai simulator, and has been developed without using any original arcade data.
+> If you own the original copyright of this game (SEGA), or you are concerned about the clean-room implementation of this game because you have developed a maimai simulator before our first release, please contact us.
+- For the simai interpreter and serializer used in AstroDX: [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)
+- For partial releases of source: [AstroDX core-dump](https://github.com/2394425147/maipaddx/tree/main/core-dump)
 
 # Q&A
 
@@ -31,7 +35,7 @@ Currently, AstroDX hasn't released a desktop version(Windows/Linux/macOS), we al
 
 Products such as "ADX controller", "BDX", etc., some of whose names may sound similar to AstroDX, are not associated with us.
 
-We are currently developing our controller API for the desktop version, and our API will be made public along with the desktop version. You may contact the original manufacturers of the controllers to request their support for AstroDX so that you can enjoy our game.
+We are currently developing our controller API for the desktop version, and our API will be made public along with the desktop version. You may contact the original manufacturers of the controllers to request their support for AstroDX.
 
 ## Wait, is there a version for iOS?
 Well... It's a bit finnicky. There's a major change happening regarding TestFlight (which you can read more on our Discord server [here](https://discord.com/channels/892807792996536453/1210127565986205726/1238882652040200373)).
