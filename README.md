@@ -1,5 +1,5 @@
 ### *FROM MAY 2024, ISSUES WITHOUT ENGLISH TRANSLATION WILL BE CLOSED WITHOUT EXPLANATION*
-### *ASTRODX IS FREE GAME, DO NOT PURCHASE FROM ANYONE, REQUEST FOR A REFUND IF POSSIBLE*
+### *ASTRODX IS A FREE GAME, DO NOT PURCHASE FROM ANYONE, REQUEST FOR A REFUND IF POSSIBLE*
 
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
@@ -54,6 +54,7 @@ We **don't recommend** doing this, as it violates SEGA's policies.
 You can open an issue [here](https://github.com/2394425147/maipaddx/issues).
 
 **As of May 2024, an attached English translation of the issue is mandatory.**
+
 We welcome issues written in Chinese, Japanese and English. However, it would be strongly suggested to provide translations (even using online translator) to English when submitting them, thus other people could understand as well.
 
 When submitting issues, please always ensure that you are running the latest released version. We also recommend reviewing existing issues to avoid duplication of questions or concerns.
