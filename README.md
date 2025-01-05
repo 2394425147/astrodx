@@ -1,4 +1,5 @@
 ### *FROM MAY 2024, ISSUES WITHOUT ENGLISH TRANSLATION WILL BE CLOSED WITHOUT EXPLANATION*
+### *ASTRODX IS FREE GAME, DO NOT PURCHASE FROM ANYONE, REQUEST FOR A REFUND IF POSSIBLE*
 
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
