@@ -31,7 +31,7 @@ v2.0 also includes optimizations, better interfaces, and more customizations. Ho
 If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Wait, is there version for iOS?
-Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL), [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn), [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M), or [TestFlight Group D](https://testflight.apple.com/join/T6qKfV6f) as well as see a live update of free slots via Flight Tracker from our [Discord server](https://discord.com/channels/892807792996536453/1210127565986205726/1210428179001380946).
+Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL), [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn), [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M), or [TestFlight Group D](https://testflight.apple.com/join/T6qKfV6f), [TestFlight Group E](https://testflight.apple.com/join/sMm1MCYc) as well as see a live update of free slots via Flight Tracker from our [Discord server](https://discord.com/channels/892807792996536453/1210127565986205726/1210428179001380946).
 
 ![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
 
