@@ -42,8 +42,8 @@ Each public link can only be occupied by 10000 players (counted by Apple ID), so
 ## Are there any tutorials on importing?
 
 Detailed guides for Android and iOS are available here:
-- [Installation Guide for Android](https://wiki.astrodx.com/en/install/android)
-- [Installation Guide for iOS/iPadOS](https://wiki.astrodx.com/en/install/ios)
+- [Installation Guide for Android](https://wiki.astrodx.com/install/android)
+- [Installation Guide for iOS/iPadOS](https://wiki.astrodx.com/install/ios)
 
 ## Can I use charts transcribed from the official arcade game maimai?
 
