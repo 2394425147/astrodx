@@ -1,5 +1,7 @@
-### *FROM MAY 2024, ISSUES WITHOUT ENGLISH TRANSLATION WILL BE CLOSED WITHOUT EXPLANATION*
-### *ASTRODX IS A FREE GAME, DO NOT PURCHASE FROM ANYONE, REQUEST FOR A REFUND IF POSSIBLE*
+> [!WARNING]
+> ### This GitHub repository is the ONLY official source for downloading the game.
+> AstroDX is **100% free**, and will never require payment from you.  
+> If you purchased this game from any third-party website, store, or seller, you have been misled. These entities are not authorized to distribute or monetize this work. Request a refund immediately through the platform/store where you made the purchase. Report the listing to the platform's support team to help prevent further scams.
 
 # AstroDX
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
