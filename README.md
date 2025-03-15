@@ -4,64 +4,46 @@
 > If you purchased this game from any third-party website, store, or seller, you have been misled. These entities are not authorized to distribute or monetize this work. Request a refund immediately through the platform/store where you made the purchase. Report the listing to the platform's support team to help prevent further scams.
 
 # AstroDX
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)
+![Downloads](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=Android)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/astrodx?label=Stable)  
 [![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
 
-AstroDX (Formerly MaipadDX) is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai who otherwise could not play the arcade game.
+AstroDX (Formerly MaipadDX) is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai who otherwise could not play the arcade game.  
+This game is a clean-room implementation of maimai, and has been developed without using any use of original arcade data.
 
-# Open-source status
+# Open-source projects
 
-We initially intended for AstroDX to be fully open-source after it has been uploaded to official app stores, but as the game contains paid assets, we may only be able to partially open-source AstroDX.
+- Simai serializer/deserializer: [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)
+- Gameplay logic: [AstroDX core-dump](https://github.com/2394425147/maipaddx/tree/main/core-dump)
 
-However, if you have issues, please don't hesitate to point it out in issues and we'll try to answer them as best as we can.
-
-This game is a clean-room implementation of maimai, and has been developed without using any original arcade data.
-
-- For simai interpreter and serializer used in AstroDX: [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)
-- For game open-source parts: [AstroDX core-dump](https://github.com/2394425147/maipaddx/tree/main/core-dump)
+We intended to open-source AstroDX after publishing to the iOS/Android app stores. Paid assets will be excluded to comply with licenses.
 
 # Q&A
 
-## Which version should I download?
+## How do I download the iOS version?
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/2394425147/maipaddx?include_prereleases)](https://github.com/2394425147/maipaddx/releases/latest)  
-v2.0 is the latest version cycle, with full support for festival features, and a superset of simai3 syntaxes (deserialized via [SimaiSharp](https://github.com/reflektone-games/SimaiSharp)).  
-v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
+> [!IMPORTANT]  
+> Only 10k users can be in a group at any time. Don't join multiple groups if you joined one already.
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
-If you prefer a stable build instead, v2.0.0.beta.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
+Join the testing program through [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL), [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn), [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M), or [TestFlight Group D](https://testflight.apple.com/join/T6qKfV6f) or [TestFlight Group E](https://testflight.apple.com/join/sMm1MCYc). 
 
-## Wait, is there version for iOS?
-Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL), [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn), [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M), or [TestFlight Group D](https://testflight.apple.com/join/T6qKfV6f), [TestFlight Group E](https://testflight.apple.com/join/sMm1MCYc) as well as see a live update of free slots via Flight Tracker from our [Discord server](https://discord.com/channels/892807792996536453/1210127565986205726/1210428179001380946).
+Our [Discord server](https://discord.com/channels/892807792996536453/1210127565986205726/1210428179001380946) also offers a live tracker of available seats.
 
-![TestFlight](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=TestFlight)
+## How do I get songs/levels?
 
-Due to Apple's restrictions, the developer must be 18 (or 19 depending on local law) to publish Applications on App Store. Currently, we are borrowing JiNALE TEAM's developer account to maintain TestFlight.
-
-Each public link can only be occupied by 10000 players (counted by Apple ID), so please DO NOT rejoin the test if you already have AstroDX installed.
-
-## Are there any tutorials on importing?
-
-Detailed guides for Android and iOS are available here:
 - [Installation Guide for Android](https://wiki.astrodx.com/install/android)
 - [Installation Guide for iOS/iPadOS](https://wiki.astrodx.com/install/ios)
 
-## Can I use charts transcribed from the official arcade game maimai?
+## Can I play converts from maimai?
 
 We **don't recommend** doing this, as it violates SEGA's policies.
 
 ## I'm having some issues...
 
-You can open an issue [here](https://github.com/2394425147/maipaddx/issues).
+> [!TIP]
+> Writing your issue in English allows more people to understand and help you.
 
-**As of May 2024, an attached English translation of the issue is mandatory.**
-
-We welcome issues written in Chinese, Japanese and English. However, it would be strongly suggested to provide translations (even using online translator) to English when submitting them, thus other people could understand as well.
-
-When submitting issues, please always ensure that you are running the latest released version. We also recommend reviewing existing issues to avoid duplication of questions or concerns.
-
-Alternatively, on our [Discord server](https://discord.gg/6fpETgpvjZ), we also have a help forum dedicated for issues, an faq, as well as a suggestions channel for feedback.
+Open an issue [here](https://github.com/2394425147/maipaddx/issues), or join our [Discord server](https://discord.gg/6fpETgpvjZ) to talk about it.
 
 ## 質問がある場合
 
@@ -82,5 +64,3 @@ Alternatively, on our [Discord server](https://discord.gg/6fpETgpvjZ), we also h
 提交issue時，請務必確保您正在執行的是最新發布的版本。 我們也建議審查現有issue，以避免重複或疑慮。
 
 此外，在我們的[Discord伺服器](https://discord.gg/6fpETgpvjZ)上，還有一個專門解決問題的幫助論壇、常見問題解答以及回饋及建議頻道。
-
-Happy playing!
