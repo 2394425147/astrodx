@@ -41,7 +41,8 @@ We **don't recommend** doing this, as it violates SEGA's policies.
 ## I'm having some issues...
 
 > [!TIP]
-> Writing your issue in English allows more people to understand and help you.
+> Writing your issue in English allows more people to understand and help you.  
+> We also recommend searching for other people's issues for solutions first.
 
 Open an issue [here](https://github.com/2394425147/maipaddx/issues), or join our [Discord server](https://discord.gg/6fpETgpvjZ) to talk about it.
 
@@ -55,12 +56,9 @@ Open an issue [here](https://github.com/2394425147/maipaddx/issues), or join our
 
 また、AstroDXの[Discordサーバー](https://discord.gg/6fpETgpvjZ)には、質問用、FAQ、フィードバックのための提案チャンネルもご用意しています。
 
-## 當遇到了問題的時候
+## 我遇到了問題！
 
-可以在[這裏](https://github.com/2394425147/maipaddx/issues)提出issue。
+> [!TIP]
+> 我們强烈建議提供英文翻譯（或綫上翻譯），以便其他人理解，并幫助到你。我們也建議搜索現有的issue，以避免重複或疑慮。
 
-我們歡迎使用中文、日文和英文編寫的issue。然而，在提交問題時，強烈建議提供英文翻譯（甚至使用線上翻譯），以便其他人也能理解。
-
-提交issue時，請務必確保您正在執行的是最新發布的版本。 我們也建議審查現有issue，以避免重複或疑慮。
-
-此外，在我們的[Discord伺服器](https://discord.gg/6fpETgpvjZ)上，還有一個專門解決問題的幫助論壇、常見問題解答以及回饋及建議頻道。
+在[這裏](https://github.com/2394425147/maipaddx/issues)提交你的issue，或在我們的[Discord伺服器](https://discord.gg/6fpETgpvjZ)上一起討論。
