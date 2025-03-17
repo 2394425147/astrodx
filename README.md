@@ -46,15 +46,12 @@ We **don't recommend** doing this, as it violates SEGA's policies.
 
 Open an issue [here](https://github.com/2394425147/astrodx/issues), or join our [Discord server](https://discord.gg/6fpETgpvjZ) to talk about it.
 
-## 質問がある場合
+## 問題が発生した場合
 
-イシューは[こちら](https://github.com/2394425147/astrodx/issues)から提出できます。
+> [!TIP]
+> イシューを英語で記載すると、より多くの人が理解し、助けてくれるでしょう。
 
-中国語、日本語、英語でのイシュー投稿を大歓迎します。ただし、他の方も理解できるように、イシューを提出する際には英文への翻訳を（オンライン翻訳を使用しても）お願いいたします。
-
-イシューを提出する際には、最新バージョンを使用していることチェックしてください。また、重複を避けるため、既存のイシューを確認することをおすすめします。
-
-また、AstroDXの[Discordサーバー](https://discord.gg/6fpETgpvjZ)には、質問用、FAQ、フィードバックのための提案チャンネルもご用意しています。
+[こちらから](https://github.com/2394425147/astrodx/issues)イシューを提出するか、[Discordサーバー](https://discord.com/channels/892807792996536453/1210127565986205726/1210428179001380946)に参加して相談してください。
 
 ## 我遇到了問題！
 
