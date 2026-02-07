@@ -6,7 +6,7 @@
 # AstroDX
 ![Downloads](https://img.shields.io/github/downloads/2394425147/maipaddx/total?label=Android)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/astrodx?label=Stable)  
-[![Discord](https://dcbadge.vercel.app/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
+[![Discord](https://dcbadge.limes.pink/api/server/6fpETgpvjZ?style=flat)](https://discord.gg/6fpETgpvjZ)
 
 AstroDX (Formerly MaipadDX) is a mobile maimai simulator intended for those who do not yet have access to a cabinet, those who want to practice, and everyone interested in maimai who otherwise could not play the arcade game.  
 This game is a clean-room implementation of maimai, and has been developed without using any use of original arcade data.
@@ -25,14 +25,14 @@ We intended to open-source AstroDX after publishing to the iOS/Android app store
 > [!IMPORTANT]  
 > Only 10k users can be in a group at any time. Don't join multiple groups if you joined one already.
 
-Join the testing program through [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL), [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn), [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M), or [TestFlight Group D](https://testflight.apple.com/join/T6qKfV6f) or [TestFlight Group E](https://testflight.apple.com/join/sMm1MCYc). 
+Join the testing program through [TestFlight](https://invite.astrodx.com). 
 
 Our [Discord server](https://discord.com/channels/892807792996536453/1210127565986205726/1210428179001380946) also offers a live tracker of available seats.
 
 ## How do I get songs/levels?
 
-- [Installation Guide for Android](https://wiki.astrodx.com/install/android)
-- [Installation Guide for iOS/iPadOS](https://wiki.astrodx.com/install/ios)
+- [Installation Guide for Android](https://wiki.astrodx.com/en/install/android)
+- [Installation Guide for iOS/iPadOS](https://wiki.astrodx.com/en/install/ios)
 
 ## Can I play converts from maimai?
 
